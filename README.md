@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @mattSutton462
+- 👀 I’m interested in software engineering and game development
+- 🌱 I’m currently learning how to build games in Godot
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: email -> suttonmatthew462@gmail.com
+- 😄 Pronouns: he/him
